@@ -1,0 +1,253 @@
+{
+  "document_id": "Frisco_Slip_001.pdf",
+  "rows": [
+    {
+      "row_id": 1,
+      "InsuredName": {
+        "value": "Frisco ISD",
+        "confidence": 0.99,
+        "page_number": 1,
+        "chunk_id": "chunk_001",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [1.18, 2.10, 3.65, 2.10, 3.65, 2.42, 1.18, 2.42]
+        }
+      },
+      "InceptionDate": {
+        "value": "01/09/2026",
+        "confidence": 0.98,
+        "page_number": 1,
+        "chunk_id": "chunk_001",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [5.12, 2.10, 5.92, 2.10, 5.92, 2.42, 5.12, 2.42]
+        }
+      },
+      "ExpirationDate": {
+        "value": "31/08/2027",
+        "confidence": 0.98,
+        "page_number": 1,
+        "chunk_id": "chunk_001",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [6.10, 2.10, 6.95, 2.10, 6.95, 2.42, 6.10, 2.42]
+        }
+      },
+      "Perils": {
+        "value": "PES+PFF+PSL+PTS+PLS+PLQ",
+        "confidence": 0.95,
+        "page_number": 1,
+        "chunk_id": "chunk_002",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [7.10, 2.10, 9.95, 2.10, 9.95, 2.42, 7.10, 2.42]
+        }
+      },
+      "LOB": {
+        "value": "PROPERTY",
+        "confidence": 0.99,
+        "page_number": 1,
+        "chunk_id": "chunk_002",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [10.12, 2.10, 11.45, 2.10, 11.45, 2.42, 10.12, 2.42]
+        }
+      },
+      "Currency": {
+        "value": "USD",
+        "confidence": 1.00,
+        "page_number": 1,
+        "chunk_id": "chunk_002",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [11.82, 2.10, 12.48, 2.10, 12.48, 2.42, 11.82, 2.42]
+        }
+      },
+      "Limit1": {
+        "value": "2944753848",
+        "confidence": 0.96,
+        "page_number": 1,
+        "chunk_id": "chunk_003",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [13.20, 2.10, 14.72, 2.10, 14.72, 2.42, 13.20, 2.42]
+        }
+      },
+      "Limit2": {
+        "value": "2944753848",
+        "confidence": 0.96,
+        "page_number": 1,
+        "chunk_id": "chunk_003",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [15.05, 2.10, 16.62, 2.10, 16.62, 2.42, 15.05, 2.42]
+        }
+      },
+      "SublimitPerils": {
+        "value": "PES+PSL+PLS",
+        "confidence": 0.94,
+        "page_number": 1,
+        "chunk_id": "chunk_004",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [17.02, 2.10, 19.25, 2.10, 19.25, 2.42, 17.02, 2.42]
+        }
+      },
+      "SublimitArea": {
+        "value": "PES_DED_100K",
+        "confidence": 0.94,
+        "page_number": 1,
+        "chunk_id": "chunk_004",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [19.65, 2.10, 21.42, 2.10, 21.42, 2.42, 19.65, 2.42]
+        }
+      },
+      "SublimitDedType": {
+        "value": "MI",
+        "confidence": 0.98,
+        "page_number": 1,
+        "chunk_id": "chunk_004",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [21.82, 2.10, 22.65, 2.10, 22.65, 2.42, 21.82, 2.42]
+        }
+      },
+      "SubLimitOcc": {
+        "value": "2944753848",
+        "confidence": 0.95,
+        "page_number": 1,
+        "chunk_id": "chunk_005",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [23.10, 2.10, 24.62, 2.10, 24.62, 2.42, 23.10, 2.42]
+        }
+      },
+      "SublimitDedAmt1": {
+        "value": "100000",
+        "confidence": 0.94,
+        "page_number": 1,
+        "chunk_id": "chunk_005",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [25.02, 2.10, 26.35, 2.10, 26.35, 2.42, 25.02, 2.42]
+        }
+      },
+      "SublimitDedAmt2": {
+        "value": null,
+        "confidence": null,
+        "page_number": null,
+        "chunk_id": null,
+        "chunk_type": null,
+        "bounding_region": null
+      }
+    },
+    {
+      "row_id": 2,
+      "InsuredName": {
+        "value": "Frisco ISD",
+        "confidence": 0.99,
+        "page_number": 1,
+        "chunk_id": "chunk_006",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [1.18, 2.48, 3.65, 2.48, 3.65, 2.80, 1.18, 2.80]
+        }
+      },
+      "Perils": {
+        "value": "PWH+PSH+PPH+PWT",
+        "confidence": 0.92,
+        "page_number": 1,
+        "chunk_id": "chunk_007",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [7.10, 2.48, 9.92, 2.48, 9.92, 2.80, 7.10, 2.80]
+        }
+      },
+      "SublimitArea": {
+        "value": "PWH_DED_1M_2%",
+        "confidence": 0.90,
+        "page_number": 1,
+        "chunk_id": "chunk_008",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [19.65, 2.48, 21.82, 2.48, 21.82, 2.80, 19.65, 2.80]
+        }
+      },
+      "SublimitDedAmt1": {
+        "value": "1000000",
+        "confidence": 0.95,
+        "page_number": 1,
+        "chunk_id": "chunk_008",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [25.02, 2.48, 26.35, 2.48, 26.35, 2.80, 25.02, 2.80]
+        }
+      },
+      "SublimitDedAmt2": {
+        "value": "2%",
+        "confidence": 0.96,
+        "page_number": 1,
+        "chunk_id": "chunk_008",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 1,
+          "polygon": [26.62, 2.48, 27.45, 2.48, 27.45, 2.80, 26.62, 2.80]
+        }
+      }
+    },
+    {
+      "row_id": 3,
+      "InsuredName": {
+        "value": "Frisco ISD",
+        "confidence": 0.99,
+        "page_number": 2,
+        "chunk_id": "chunk_011",
+        "chunk_type": "paragraph",
+        "bounding_region": {
+          "page_number": 2,
+          "polygon": [1.15, 5.60, 3.80, 5.60, 3.80, 5.92, 1.15, 5.92]
+        }
+      },
+      "Currency": {
+        "value": "USD",
+        "confidence": 0.99,
+        "page_number": 2,
+        "chunk_id": "chunk_012",
+        "chunk_type": "key_value",
+        "bounding_region": {
+          "page_number": 2,
+          "polygon": [8.52, 5.60, 9.12, 5.60, 9.12, 5.92, 8.52, 5.92]
+        }
+      },
+      "Limit1": {
+        "value": "1500000",
+        "confidence": 0.93,
+        "page_number": 2,
+        "chunk_id": "chunk_013",
+        "chunk_type": "table",
+        "bounding_region": {
+          "page_number": 2,
+          "polygon": [13.12, 5.60, 14.82, 5.60, 14.82, 5.92, 13.12, 5.92]
+        }
+      }
+    }
+  ]
+}
